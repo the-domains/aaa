@@ -1,0 +1,14 @@
+layout_spectrum: 0.10448019998148084
+typography_spectrum: 0.9561412977054715
+color:
+  brandStrength: 0.07033325196243823
+  lightness: 0.2725409537088126
+  saturation: 0.8656388018280268
+  rhythmicContrast: 0.40377215342596173
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: aaa
