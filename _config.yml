@@ -11,8 +11,13 @@ color:
     - '#79BD8F'
     - '#00A388'
 layout_spectrum: 0.10448019998148084
+author:
+  name: Nick Jones
+  url: 'http://narrowdesign.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/efc98057-5758-4c6f-a74e-81e810c1b46b.png
-name: Motorized Bicycle Culture
+name: The Culture of Motorized Bicycles
 style: the-composer
-title: Motorized Bicycle Culture
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36d76367-52a8-4f20-8c37-ec07d96612e6.png
+title: The Culture of Motorized Bicycles
