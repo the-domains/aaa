@@ -1,16 +1,16 @@
-typography_spectrum: 0.9561412977054715
+typography_spectrum: 0.0745082141365856
 color:
-  brandStrength: 0.07033325196243823
-  lightness: 0.2725409537088126
-  saturation: 0.8656388018280268
-  rhythmicContrast: 0.40377215342596173
+  brandStrength: 0.321415014564991
+  lightness: 0.06322111189365387
+  saturation: 0.8938799493480474
+  rhythmicContrast: 0.5858410084620118
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-layout_spectrum: 0.10448019998148084
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.7461054660379887
 author:
   name: Nick Jones
   url: 'http://narrowdesign.com'
