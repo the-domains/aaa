@@ -1,6 +1,4 @@
-layout_spectrum: 0.10448019998148084
 typography_spectrum: 0.9561412977054715
-style: the-composer
 color:
   brandStrength: 0.07033325196243823
   lightness: 0.2725409537088126
@@ -12,5 +10,9 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
+layout_spectrum: 0.10448019998148084
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/314e95e1-09ed-4665-8bee-c8787599e3fd.png
 name: Motorized Bicycle Culture
+style: the-composer
 title: Motorized Bicycle Culture
